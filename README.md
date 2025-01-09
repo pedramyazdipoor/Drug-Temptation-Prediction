@@ -6,6 +6,6 @@ The dataset is a psychological self-report questionnaire that over 700 students 
 of students' parents, gender, age and several psychological questions.\
 We faced with so many missing values and we addressed this problem through various data imputation methods(avg value for numeric features,
 most frequent value for categorical features and 'no opinion' for psychological questions).\
-The dataset is not available for downloading due to privacy and license issues.\
+The dataset is not available for downloading due to privacy and license issues.
 
 ![image](https://github.com/user-attachments/assets/e0282403-9c6b-4132-a660-74236e0732e7)
